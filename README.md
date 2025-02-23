@@ -70,8 +70,5 @@ To conduct this analysis, the following tools and techniques will be used:
 - **Strategic Recommendations**: Actionable insights and recommendations for improving lending strategies, customer satisfaction, and risk management.
 - **Presentation**: A slide deck summarizing the project findings and recommendations for stakeholders.
 
-## Project Timeline
-The project will be completed by the end of week [insert estimated date here].
-
 ## Conclusion
 This project aims to provide a holistic understanding of bank loan performance by leveraging available transaction data. The insights generated from this analysis will support enhanced decision-making, optimize lending strategies, and improve overall customer satisfaction. The findings will be valuable for banking decision-makers and financial analysts.
