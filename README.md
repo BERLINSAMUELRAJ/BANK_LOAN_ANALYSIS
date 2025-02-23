@@ -5,7 +5,7 @@ The banking sector is pivotal in managing personal and business finance through 
 
 ## Dataset
 
-The data for this project is sourced from the Kaggle dataset:
+The data for this project is sourced based on Finance Domain :
 
 - **Dataset Link:** [Finance Dataset](https://github.com/BERLINSAMUELRAJ/BANK_LOAN_ANALYSIS/blob/main/financial_loan.xlsx)
 
