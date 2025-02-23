@@ -1,5 +1,5 @@
 # Comprehensive Analysis of Bank Loan Transactions for Enhanced Decision-Making
-
+![](https://github.com/BERLINSAMUELRAJ/BANK_LOAN_ANALYSIS/blob/main/digital-banking-loans-data.webp)
 ## Introduction
 The banking sector is pivotal in managing personal and business finance through loan offerings. Understanding the dynamics of loan transactions, customer profiles, and repayment behaviors is essential for optimizing lending strategies and minimizing default risks. This project focuses on a bank loan dataset that captures critical information about loan transactions. By analyzing this data, we aim to uncover insights that can enhance the bank's lending policies and improve customer service.
 
