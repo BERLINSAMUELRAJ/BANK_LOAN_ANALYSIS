@@ -3,6 +3,12 @@
 ## Introduction
 The banking sector is pivotal in managing personal and business finance through loan offerings. Understanding the dynamics of loan transactions, customer profiles, and repayment behaviors is essential for optimizing lending strategies and minimizing default risks. This project focuses on a bank loan dataset that captures critical information about loan transactions. By analyzing this data, we aim to uncover insights that can enhance the bank's lending policies and improve customer service.
 
+## Dataset
+
+The data for this project is sourced from the Kaggle dataset:
+
+- **Dataset Link:** [Finance Dataset](https://github.com/BERLINSAMUELRAJ/BANK_LOAN_ANALYSIS/blob/main/financial_loan.xlsx)
+
 ## Project Objective
 The primary objective of this project is to analyze the bank loan dataset and extract meaningful insights that can assist the business in the following areas:
 - **Loan Status Analysis**: Understanding the status of loans (approved, declined, paid, defaulted) and their impact on revenue.
