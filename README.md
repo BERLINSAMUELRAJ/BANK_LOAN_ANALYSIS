@@ -70,5 +70,18 @@ To conduct this analysis, the following tools and techniques will be used:
 - **Strategic Recommendations**: Actionable insights and recommendations for improving lending strategies, customer satisfaction, and risk management.
 - **Presentation**: A slide deck summarizing the project findings and recommendations for stakeholders.
 
+## SNAPSHOT OF THE DASHBOARD
+SEE THE FULL DASHBOARD HERE - [APP POWER BI LINK](https://app.powerbi.com/view?r=eyJrIjoiNDZkNDY3YzYtMmZjMS00NzA0LThmYzUtOTJmM2ZlNmNlZGQ4IiwidCI6ImI1NzkyOWNlLTZjNDMtNDUzZC1hZDdiLTc2MTJiNDA4NWQyMCJ9)
+
+![](https://github.com/BERLINSAMUELRAJ/BANK_LOAN_ANALYSIS/blob/main/Page%201.png)
+
+![](https://github.com/BERLINSAMUELRAJ/BANK_LOAN_ANALYSIS/blob/main/Page%202.png)
+
+![](https://github.com/BERLINSAMUELRAJ/BANK_LOAN_ANALYSIS/blob/main/Page%203.png)
+
+![](https://github.com/BERLINSAMUELRAJ/BANK_LOAN_ANALYSIS/blob/main/Page%204.png)
+
+![](https://github.com/BERLINSAMUELRAJ/BANK_LOAN_ANALYSIS/blob/main/Page%205.png)
+
 ## Conclusion
 This project aims to provide a holistic understanding of bank loan performance by leveraging available transaction data. The insights generated from this analysis will support enhanced decision-making, optimize lending strategies, and improve overall customer satisfaction. The findings will be valuable for banking decision-makers and financial analysts.
